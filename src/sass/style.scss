@@ -1,0 +1,43 @@
+* {
+  //outline: 1px solid tomato;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.input {
+  display: inline;
+  margin: 0 auto;
+}
+
+.countrie {
+  margin: 0 auto;
+}
+
+.countrie-title {
+  text-align: center;
+  //margin-top: 0px;
+}
+
+.countrie-info {
+  display: flex;
+}
+
+.countrie-info-text {
+  margin-right: 15px;
+}
+
+.countries-list {
+  list-style: none;
+}
+
+ul {
+  list-style: disc;
+}
+
+li {
+  margin-bottom: 5px;
+}
