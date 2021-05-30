@@ -6,8 +6,7 @@
   "homepage": "https://fadeev2000.github.io/goit-js-hw-12-countries",
   "scripts": {
     "dev": "parcel src/*.html",
-    "port": "serve index.js --port 1111",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11-timer/",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
